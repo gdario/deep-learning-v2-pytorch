@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+intro-to-pytorch/Cat_Dog_data/
+intro-to-pytorch/__MACOSX/
+intro-to-pytorch/__pycache__/
+intro-to-pytorch/checkpoint.pth
+.vscode/
